@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	 			"models\bullets\bullet_buckshot_albedo"
+	"$bumpmap"	 	 			"models\bullets\bullet_buckshot_normal"
+
+	"$phong"     				"1"
+	"$phongexponent"  			"12"
+	"$phongboost"   			"0.2"
+	"$phongfresnelranges"   	"[1 9 3]"
+	"$phongalbedotint" 			"1"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"30"
+	"$rimlightboost"			"0.1"
+
+}

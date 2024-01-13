@@ -1,0 +1,12 @@
+{
+  "title": "Action Extension",
+  "type": "tool",
+  "tags": [
+    "fun",
+    "scenic"
+  ],
+  "ignore": [
+    "*.vmf",
+    "*.log"
+  ]
+}

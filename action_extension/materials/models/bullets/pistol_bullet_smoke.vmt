@@ -1,0 +1,23 @@
+"VertexLitGeneric" 
+{
+	"$basetexture"  				"models/bullets/pistol_bullet_smoke"
+
+	"$halflambert" "1"
+	"$translucent"  "1"
+	"$additive" "1"
+	
+	"Proxies"
+	{
+
+		"AnimatedTexture"
+		{
+
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "340"
+
+		}
+
+	}
+
+}
